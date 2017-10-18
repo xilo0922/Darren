@@ -12,3 +12,4 @@ E:\Darren\Work\Darren\Demo\Demo\bin\Debug\Demo.pdb
 E:\Darren\Work\Darren\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
 E:\Darren\Work\Darren\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
 E:\Darren\Work\Darren\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+E:\Darren\Work\Darren\Demo\Demo\obj\Debug\Demo.Form1.resources
