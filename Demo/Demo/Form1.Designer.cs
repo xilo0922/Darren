@@ -28,78 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.gridLookUpEdit1 = new DevExpress.XtraEditors.GridLookUpEdit();
-            this.gridLookUpEdit1View = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.lookUpEdit1 = new DevExpress.XtraEditors.LookUpEdit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridLookUpEdit1.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridLookUpEdit1View)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.lookUpEdit1.Properties)).BeginInit();
+            this.userControlcs2 = new Demo.UserControlcs();
+            this.userControlcs1 = new Demo.UserControlcs();
             this.SuspendLayout();
             // 
-            // button1
+            // userControlcs2
             // 
-            this.button1.Location = new System.Drawing.Point(337, 93);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.userControlcs2.Location = new System.Drawing.Point(41, 12);
+            this.userControlcs2.Name = "userControlcs2";
+            this.userControlcs2.Size = new System.Drawing.Size(476, 38);
+            this.userControlcs2.TabIndex = 1;
+            this.userControlcs2.TextValue = "";
             // 
-            // gridLookUpEdit1
+            // userControlcs1
             // 
-            this.gridLookUpEdit1.EditValue = "";
-            this.gridLookUpEdit1.Location = new System.Drawing.Point(68, 96);
-            this.gridLookUpEdit1.Name = "gridLookUpEdit1";
-            this.gridLookUpEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.gridLookUpEdit1.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard;
-            this.gridLookUpEdit1.Properties.View = this.gridLookUpEdit1View;
-            this.gridLookUpEdit1.Size = new System.Drawing.Size(263, 20);
-            this.gridLookUpEdit1.TabIndex = 2;
-            // 
-            // gridLookUpEdit1View
-            // 
-            this.gridLookUpEdit1View.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
-            this.gridLookUpEdit1View.Name = "gridLookUpEdit1View";
-            this.gridLookUpEdit1View.OptionsSelection.EnableAppearanceFocusedCell = false;
-            this.gridLookUpEdit1View.OptionsView.ShowGroupPanel = false;
-            // 
-            // lookUpEdit1
-            // 
-            this.lookUpEdit1.Location = new System.Drawing.Point(68, 123);
-            this.lookUpEdit1.Name = "lookUpEdit1";
-            this.lookUpEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.lookUpEdit1.Properties.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.Standard;
-            this.lookUpEdit1.Size = new System.Drawing.Size(263, 20);
-            this.lookUpEdit1.TabIndex = 3;
+            this.userControlcs1.Location = new System.Drawing.Point(77, 29);
+            this.userControlcs1.Name = "userControlcs1";
+            this.userControlcs1.Size = new System.Drawing.Size(239, 21);
+            this.userControlcs1.TabIndex = 0;
+            this.userControlcs1.TextValue = "";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(731, 351);
-            this.Controls.Add(this.lookUpEdit1);
-            this.Controls.Add(this.gridLookUpEdit1);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(634, 289);
+            this.Controls.Add(this.userControlcs2);
+            this.Controls.Add(this.userControlcs1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.gridLookUpEdit1.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridLookUpEdit1View)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.lookUpEdit1.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private DevExpress.XtraEditors.GridLookUpEdit gridLookUpEdit1;
-        private DevExpress.XtraGrid.Views.Grid.GridView gridLookUpEdit1View;
-        private DevExpress.XtraEditors.LookUpEdit lookUpEdit1;
+        private UserControlcs userControlcs1;
+        private UserControlcs userControlcs2;
+
+
 
 
 
