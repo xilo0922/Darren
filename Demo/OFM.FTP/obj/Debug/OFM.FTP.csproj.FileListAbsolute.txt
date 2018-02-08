@@ -1,0 +1,8 @@
+E:\Darren\Demo\Demo\OFM.FTP\bin\Debug\OFM.FTP.exe
+E:\Darren\Demo\Demo\OFM.FTP\bin\Debug\OFM.FTP.pdb
+E:\Darren\Demo\Demo\OFM.FTP\obj\Debug\OFM.FTP.Form1.resources
+E:\Darren\Demo\Demo\OFM.FTP\obj\Debug\OFM.FTP.Properties.Resources.resources
+E:\Darren\Demo\Demo\OFM.FTP\obj\Debug\OFM.FTP.csproj.GenerateResource.Cache
+E:\Darren\Demo\Demo\OFM.FTP\obj\Debug\OFM.FTP.exe.licenses
+E:\Darren\Demo\Demo\OFM.FTP\obj\Debug\OFM.FTP.exe
+E:\Darren\Demo\Demo\OFM.FTP\obj\Debug\OFM.FTP.pdb

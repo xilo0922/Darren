@@ -1,0 +1,7 @@
+E:\Darren\Demo\Demo\ValidateService\bin\Debug\ValidateService.exe
+E:\Darren\Demo\Demo\ValidateService\bin\Debug\ValidateService.pdb
+E:\Darren\Demo\Demo\ValidateService\obj\Debug\ValidateService.Form1.resources
+E:\Darren\Demo\Demo\ValidateService\obj\Debug\ValidateService.Properties.Resources.resources
+E:\Darren\Demo\Demo\ValidateService\obj\Debug\ValidateService.csproj.GenerateResource.Cache
+E:\Darren\Demo\Demo\ValidateService\obj\Debug\ValidateService.exe
+E:\Darren\Demo\Demo\ValidateService\obj\Debug\ValidateService.pdb
